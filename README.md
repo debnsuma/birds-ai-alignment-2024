@@ -6,7 +6,7 @@ BIRDS, together with Safety & Alignment, bring you an AI Alignment cohort based 
 
 The ARENA course curriculum is specifically designed by @calsmcdougall, drawing heavily from other reputed alignment resources.
 
-Special thanks to the [BIRD (Cohere For AI Community)](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) and the core team: Akanhsha, Herumb, Caroline, Sunitha, and Alif.
+Special thanks to the [BIRD (Cohere For AI Community)](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) and the core team: Akanhsha, Herumb, Caroline, Sunitha, and Alif for driving this cohort and sharing their knowledge 😊.
 
 ![](./img/img0.png)
 
