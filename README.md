@@ -1,10 +1,7 @@
 # BIRD AI Alignment Cohort (ARENA) 2024 
 
 This is the repository complementing the AI Alignment Cohort from [BIRD (Cohere For AI Community)](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw).
-
-BIRDS, together with Safety & Alignment, bring you an AI Alignment cohort based on the [ARENA course curriculum](https://mango-ambulance-93a.notion.site/ARENA-Virtual-Resources-7934b3cbcfbf4f249acac8842f887a99).
-
-The ARENA course curriculum is specifically designed by @calsmcdougall, drawing heavily from other reputed alignment resources.
+The [ARENA course curriculum](https://mango-ambulance-93a.notion.site/ARENA-Virtual-Resources-7934b3cbcfbf4f249acac8842f887a99) is specifically designed by Callum McDougall, drawing heavily from other reputed alignment resources.
 
 Special thanks to the [BIRD (Cohere For AI Community)](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) and the core team: Akanhsha, Herumb, Caroline, Sunitha, and Alif for driving this cohort and sharing their knowledge 😊.
 
