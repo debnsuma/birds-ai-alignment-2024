@@ -9,30 +9,6 @@ This repository is for AI-Alignment-Cohort, a collection of pre-reads, session r
 
 ![](./img/AIA.png)
 
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    th, td {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: left;
-    }
-    th {
-        background-color: #f2f2f2;
-    }
-    tr:nth-child(even) {
-        background-color: #e6f7ff;
-    }
-    tr:nth-child(odd) {
-        background-color: #ccf2ff;
-    }
-    th:first-child, td:first-child {
-        text-align: center;
-    }
-</style>
-
 # AI Alignment Cohort Sessions
 
 | **Session No.** | **Topic**                                 | **Date** | **Prereads**                                   |
