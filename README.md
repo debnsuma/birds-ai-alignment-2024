@@ -23,19 +23,20 @@ This repository is for AI-Alignment-Cohort, a collection of pre-reads, session r
 
 - **Session 0: Introduction** 
   - Recording: [Link](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort)
-  - Further Reading: [TBA](#)
+
 - **Session 1: Linear Algebra and Information Theory** 
   - Recording: [Link](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort)
-  - Further Reading: [TBA](#)
+
 - **Session 2: Probability and Statistics** 
   - Recording: [Link](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort)
-  - Further Reading: [TBA](#)
+
 - **Session 3: Neural Networks and EINOPS** 
   - Recording: [Link](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort)
   - Further Reading: 
     - [This tutorial covers einops in more detail w/ more complex operations](https://einops.rocks/1-einops-basics/)
     - [And this is a comprehensive blog post on einsum (einsum is all you need)](https://rockt.github.io/2018/04/30/einsum)
+    
 - **Session 4: CNNs, ResNets and Ray Tracing** 
   - Recording: [Link](https://sites.google.com/cohere.com/c4ai-community/community-programs/birds/ai-alignment-cohort)
-  - Further Reading: [TBA](#)
+
 
